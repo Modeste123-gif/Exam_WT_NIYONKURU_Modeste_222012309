@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="blue H style.css">
+<link href="http://fonts.googleapis.com/icon?family=Material+icons" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width= device-width, initial-scale=1.0">
+<title>Energy conservation case studies| Blue horizon Energy</title>
+</head>
+
+<body style="background-color: rgb(202, 198, 194);">
+
+<div class="menu-barR">
+<ul>
+<li><a href="home.php">BLUE<BR>HORIZON</a></li>
+<li><a href="home.php">Energy consulting services</a></li>
+<li><a href="about.php">ABOUT US</a></li>  
+<li><a href="services.php">SERVICES</a></li>
+<li><a href="project.php">PROJECTS</a></li>
+<li><a href="casestudy.php">CASE STUDY</a></li> 
+<li><a href="insight.php">INSIGHT & NEWS</a></li>
+<li><a href="contact.php">CONTACT</a></li>
+<li><a href="logout.php">Logout</a></li>
+</ul>
+</div>   
+<div class="Global-container">
+<div class="container-first">
+<img src="C:\Users\user1\Desktop\BLUE HORRIZON, my project\market assesmnt.jpg">
+<h2>Energy Market Assessment and Strategy for <br>International Solar & Investment Firms</h2>
+<P>
+Assisted international solar PV developers and investors with assessments of legal, regulatory, and economic backdrop for the distributed solar PV and battery storage market emerging in several African countries. An in-depth tariff analysis was also conducted focusing on customer segmentation in various locations to inform the current business case for distributed generation solutions.
+</P>
+<br><br><br>
+<img src="C:\Users\user1\Desktop\BLUE HORRIZON, my project\electricity.jpg">
+<h2> Developed Namibia’s Renewable Energy Policy</h2>
+<p>Key author for Namibia’s renewable energy policy in alignment with the countries available resources and procurement goals. Key tasks included identifying existing institutional gaps in the renewable energy sector, profiling status quo, stakeholder engagement, workshop facilitation, and drafting policy.</p>
+<br><br><br>
+<img src="C:\Users\user1\Desktop\BLUE HORRIZON, my project\project-renewable-energy (1).jpg">
+<h2> Investment & Grant Funding Evaluations for <br>Renewable Energy, Microgrid, and Storage Projects in <br>Africa and Asia.</h2>
+<p>Evaluated over a dozen early stage renewable energy, energy storage, & microgrid projects applying for support with feasibility, potential technology demonstrations, and/or financing. Projects included utility-scale batteries, wind farms, solar PV plants, water resiliency/irrigation, small hydro, microgrids, and some hybrid projects in various locations across Africa and Asia.</p>
+<br><br><br>
+<img src="C:\Users\user1\Desktop\BLUE HORRIZON, my project\projects-low-income-housing (1).jpg">
+<h2>Energy Efficiency and Renewables in Low Income Housing</h2>
+<p>Worked with Western Cape Government to enable local firms to supply energy efficiency and renewable energy services and products to low income and high density settlements in the Western Cape of South Africa.</p>    
+<br><br><br>
+<img src="C:\Users\user1\Desktop\BLUE HORRIZON, my project\projects-solar-park (1).jpg">
+<h2>1 GW Solar Park Feasibility Study</h2>
+<p>Key contributor to feasibility study for a 1 GW Solar Park using both solar photovoltaic (PV) and concentrating solar power (CSP) technologies in Southern Africa as part of the Clinton Climate Initiative program.</p>
+</div>
+<div class="container-second">
+<h2>SELECT <br>PUBLICATIONS</h2>
+<a href="https://www.bluehorizon.energy/has-the-world-bank-group-cracked-the-code-to-unlocking-big-solar-in-emerging-markets/">
+White Paper on the World Bank <br> Group’s Scaling Solar Auctions</a>, <br>2017. Contributing author.
+<br><br><br>
+<a href="https://www.mme.gov.na/files/publications/03f_National%20Renewable%20Energy%20Policy%20-%20July%202017.pdf">
+National Renewable Energy <br>,Policy for the Republic of <br>Namibia</a>, 2017. Contributing <br>author.
+<br><br><br>
+<a href="https://sapvia.co.za/wp-content/uploads/2013/03/PV-Localisation-Final-Report-v4-lowres.pdf">
+The Localization Potential of <br>Photovoltaics and a Strategy to <br>Support the Larger Roll-Out in <br>South Africa</a>, 2013. Contributing <br>author.  
+</div>
+</div>   
+
+<div class="fore-container">      
+
+<a href="#" class="back_to_top">
+<span class="matial-icon">
+<span class="material-icons"><i class="fa-solid fa-arrow-up-from-bracket"></i></span>
+
+</span>
+</a>
+<hr></hr>
+
+
+
+
+<script src="https://kit.fontawesome.com/d7d0a7708f.js" crossorgin="anonymous"></script>
+
+
+</div>
+
+
+
+<div class="mymenu-bar">
+<ul>
+<li><b>© 2024 Blue Horizon. All Rights Reserved.</b></li>
+<div class="links" >
+
+<li> <a href="#" target="_blank"><i class="fab fa-twitter"></i>Twitter</a> </li>
+<li> <a href="#" target="_blank"><i class="fab fa-linkedin-in"></i>LinkedIn</a> </li>
+
+</div>
+</ul>
+</div>
+
+</body>
+</html>
